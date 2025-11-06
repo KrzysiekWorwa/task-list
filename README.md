@@ -1,1 +1,1 @@
-https://krzysiekworwa.github.io/task_list/
+https://krzysiekworwa.github.io/task-list/
